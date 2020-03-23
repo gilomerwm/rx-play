@@ -1,4 +1,4 @@
-# rx-play - Simple examples for rxJava
+### Simple examples for rxJava for any use 
 
 - Clone project to your github repository 
 
